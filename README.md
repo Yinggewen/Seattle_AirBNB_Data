@@ -1,4 +1,4 @@
-# Seattle AirBNB Data Analysi
+# Seattle AirBNB Data Analysis
 
 ## Table of Contents
 
