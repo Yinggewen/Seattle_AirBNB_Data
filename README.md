@@ -1,5 +1,7 @@
 # Seattle AirBNB Data Analysis
 
+---
+
 ## Table of Contents
 
 1. [Context](#jump1)
@@ -31,4 +33,4 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 
 ---
 ### <span id="jump4">Report</span>
-Here is the technical report. For  a non-technical audience, this is my blog post to share my questions and insights
+[Here](https://github.com/Yinggewen/Seattle_AirBNB_Data/blob/main/Seattle_Airbnb_House.ipynb) is the technical report. For a non-technical audience, [this](https://github.com/Yinggewen/Seattle_AirBNB_Data/blob/main/Blog_Post.md) is my blog post to share my questions and insights
