@@ -5,8 +5,8 @@
 ## Table of Contents
 
 1. [Context](#jump1)
-2. [Project Motivation](#jump2)
-3. [Key Steps for Project](#jump3)
+2. [Key Steps for Project](#jump3)
+3. [Project Motivation](#jump2)
 4. [Report](#jump4)
 
 
@@ -18,6 +18,23 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 
 
 ---
+### <span id="jump3">Key Steps for Project</span>
+
+
+
+Create a Jupyter Notebook, using any associated packages you'd like, to:
+
+Prepare data:
+
+Gather necessary data to answer your questions
+Handle categorical and missing data
+Provide insight into the methods you chose and why you chose them
+Analyze, Model, and Visualize
+
+Provide a clear connection between your business questions and how the data answers them.
+
+
+---
 
 ### <span id="jump2">Project Motivation</span>
 
@@ -26,9 +43,6 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 * Relationship between reviews and other variables
 
 * What are the busiest times of the year to visit Seattle?
-
----
-### <span id="jump3">Key Steps for Project</span>
 
 
 ---
