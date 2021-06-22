@@ -21,18 +21,14 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 ### <span id="jump3">Key Steps for Project</span>
 
 
+* Prepare data:
 
-Create a Jupyter Notebook, using any associated packages you'd like, to:
-
-Prepare data:
-
-Gather necessary data to answer your questions
-Handle categorical and missing data
-Provide insight into the methods you chose and why you chose them
-Analyze, Model, and Visualize
-
-Provide a clear connection between your business questions and how the data answers them.
-
+    * Gather necessary data to answer your questions
+    * Handle categorical and missing data
+    * Provide insight into the methods
+ 
+ 
+ * Analyze, Model, and Visualize
 
 ---
 
