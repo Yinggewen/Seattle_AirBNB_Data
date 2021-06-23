@@ -36,7 +36,7 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 
 * Can we predict a price of Seattle Airbnb listings? What aspects correlate well to price?
 
-* Relationship between reviews and other variables
+* What are the common words in the positive and negtive reviews?
 
 * What are the busiest times of the year to visit Seattle?
 
