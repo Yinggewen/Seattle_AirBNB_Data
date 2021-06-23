@@ -16,6 +16,11 @@
 
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA. The dataset is [here](https://www.kaggle.com/airbnb/seattle/data).
 
+The dataset has three data files:
+calendar: Listing id and the price and availability for that day
+listings: Full descriptions and average review score
+reviews: Unique id for each reviewer and detailed comments
+
 
 ---
 ### <span id="jump3">Key Steps for Project</span>
