@@ -1,4 +1,6 @@
 
+![avatar](C:/Users/wenyi/OneDrive/Desktop/house.jpg)
+
 Airbnb is a website for short-term house and apartment rentals. It allows the hosts to rent out their houses for a week while they are away, or rent out empty bedrooms. But they need to face the challenge to determine the price. So the important part I am trying to do is to find out a model to predict where prices lie and what features of Airbnb listings have the biggest impact on price.
 
 
