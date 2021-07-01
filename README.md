@@ -6,8 +6,10 @@
 
 1. [Context](#jump1)
 2. [Key Steps for Project](#jump3)
-3. [Project Motivation](#jump2)
-4. [Report](#jump4)
+3. [Libraries](#jump5)
+4. [Project Motivation](#jump2)
+5. [Report](#jump4)
+
 
 
 
@@ -36,18 +38,18 @@ The dataset has three data files:
  * Analyze, Model, and Visualize
 
 ---
-*  Libraries
+### <span id="jump5">Libraries</span>
+### Libraries
 
 This project requires Python 3.6 and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-seaborn
-sklearn
-You will also need to have software installed to run and execute a Jupyter Notebook
-
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select Python 3.x installer.
+* NumPy
+* Pandas
+* matplotlib
+* seaborn
+* sklearn
+* 
+You will also need to have software installed to run and execute a Jupyter Notebook. If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select Python 3.x installer.
 
 
 ---
