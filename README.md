@@ -38,7 +38,7 @@ The dataset has three data files:
  * Analyze, Model, and Visualize
 
 ---
-###<span id="jump5">Libraries</span>
+### <span id="jump5">Libraries</span>
 
 This project requires Python 3.6 and the following Python libraries installed:
 
